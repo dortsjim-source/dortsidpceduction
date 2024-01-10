@@ -36,9 +36,9 @@ title: 教育訓練業務訓練政策
 
 ## B1 會議廳課程,B1 捷韻國際廳座位配置圖[連結](https://pdnssv07.dorts.gov.tw:20221/DEPA/J/l6g56jjrbu00y/訓練規定/B1平面圖.pdf),B1 平面圖[連結](https://pdnssv07.dorts.gov.tw:20221/DEPA/J/l6g56jjrbu00y/訓練規定/B1平面圖.pdf), 開課作業[連結](https://pdnssv07.dorts.gov.tw:20221/DEPA/J/l6g56jjrbu00y/訓練規定/B1課程-開課作業.pdf), B1 會議廳參訓注意事項[連結](https://pdnssv07.dorts.gov.tw:20221/DEPA/J/l6g56jjrbu00y/訓練規定/B1會議廳參訓注意事項.pdf)
 
-## 3F 電腦教室,3F 電腦教室參訓注意事項[連結](https://blog.icoding.tw)
+## 3F 電腦教室,3F 電腦教室參訓注意事項[連結](https://pdnssv07.dorts.gov.tw:20221/DEPA/J/l6g56jjrbu00y/訓練規定/3F訓練教室參訓注意事項.pdf)
 
-## 15F 訓練教室, 開課作業[連結](https://blog.icoding.tw),15F 訓練教室注意事項[連結](https://blog.icoding.tw)
+## 15F 訓練教室, 開課作業[連結](https://pdnssv07.dorts.gov.tw:20221/DEPA/J/l6g56jjrbu00y/訓練規定/15F課程-開課作業.pdf),15F 訓練教室注意事項[連結](https://pdnssv07.dorts.gov.tw:20221/DEPA/J/l6g56jjrbu00y/訓練規定/15F訓練教室參訓注意事項.pdf)
 
 ```bash
 訓練授證
